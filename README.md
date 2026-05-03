@@ -52,20 +52,4 @@ Temperature & Humidity sensor (DHT11 / DHT22)
 Gas/Smoke sensor
 PIR motion sensor
 Relays or actuators (optional)
- Installation
-Clone the repository:
-git clone https://github.com/your-username/smart-home-esp32.git
-Open the project using Arduino IDE or PlatformIO
-Install the required libraries
-Update Wi-Fi credentials in the code:
-const char* ssid = "YOUR_WIFI";
-const char* password = "YOUR_PASSWORD";
-Upload the code to ESP32
-Open Serial Monitor to get the device IP address
-Access the dashboard via browser:
-http://<ESP32_IP>
-Future Improvements
-Mobile app integration
-OTA updates
-Data logging
-Multi-device support (mesh/networked nodes)
+
